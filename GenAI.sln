@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37203.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenAI_With_AgentFramework", "Learn\GenAI_With_AgentFramework.csproj", "{737CCC95-0D76-4C6B-ACEE-22D7723A7AD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{737CCC95-0D76-4C6B-ACEE-22D7723A7AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{737CCC95-0D76-4C6B-ACEE-22D7723A7AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{737CCC95-0D76-4C6B-ACEE-22D7723A7AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{737CCC95-0D76-4C6B-ACEE-22D7723A7AD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E16908C-8BAD-4570-9D36-2A39CE6F6312}
+	EndGlobalSection
+EndGlobal
